@@ -8,7 +8,7 @@ description: Codes, Thoughts & Me
 # if it's an external image, update below for true
 # better with square images
 # external-image: false
-picture: assets/images/nilesh.jpg
+picture: /assets/images/nilesh.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
@@ -19,7 +19,7 @@ resume-url: https://google.com/?q=my+resume
 url: nileshkumar.me
 # your url: http://USERNAME.github.io
 
-permalink: /:title/
+permalink: /blog/:title/
 
 # To enable google analytics, supply your token below
 analytics-google: 'UA-122949156-1'
