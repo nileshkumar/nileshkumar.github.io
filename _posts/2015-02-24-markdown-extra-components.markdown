@@ -138,11 +138,9 @@ You can add an especial hidden content that appears on hover.
 
 ---
 
-## Gist
+## Latest Gist
 
-You can add Gists from github.
-
-{% gist sergiokopplin/91ff4220480727b47224245ee2e9c291 %}
+{% gist nileshkumar/d955be41467eb5eb4df7bbcf487730d1 %}
 
 ---
 
