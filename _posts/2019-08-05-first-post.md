@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ---
 title: "My first post"
@@ -15,5 +15,3 @@ tag:
 {% highlight ruby %}
   puts 'Hello World!!"
 {% endhighlight %}
-
-
