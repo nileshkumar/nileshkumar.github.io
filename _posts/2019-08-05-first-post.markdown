@@ -11,6 +11,7 @@ tag:
 - ruby
 - code
 - post
+category: blog
 
 {% highlight ruby %}
   puts 'Hello World!!"
