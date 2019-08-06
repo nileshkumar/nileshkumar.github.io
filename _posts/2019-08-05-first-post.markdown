@@ -15,6 +15,7 @@ category: blog
 author: nkumar
 description: Markdown summary with different options
 permalink: blog/:title/
+---
 
 {% highlight ruby %}
   puts 'Hello World!!"
