@@ -8,7 +8,7 @@
     <span class="page_number ">page {{ paginator.page }} of {{ paginator.total_pages }}</span>
 
     {% if paginator.next_page %}
-        <a href="{{ site.url }}{{ paginator.next_page_path }}" class="next">»</a>
+        <a href="{{ site.url }}/{{ paginator.next_page_path }}" class="next">»</a>
     {% else %}
         <span class="next hidden">»</span>
     {% endif %}
