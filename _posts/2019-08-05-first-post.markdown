@@ -1,7 +1,4 @@
 ---
-published: true
----
----
 title: "My first post"
 layout: post
 date: 2019-08-05
@@ -12,6 +9,7 @@ tag:
 - code
 - post
 category: blog
+permalink: blog/:title/
 
 {% highlight ruby %}
   puts 'Hello World!!"
