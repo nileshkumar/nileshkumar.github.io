@@ -1,14 +1,16 @@
 ---
-title: "My first post"
+title: "Fist Post"
 layout: post
-date: 2019-08-05
+date: 2019-08-05 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- ruby
-- code
-- post
+- markdown
+- components
+- extra
 category: blog
+author: nkumar
+description: Markdown summary with different options
 permalink: blog/:title/
 
 {% highlight ruby %}
