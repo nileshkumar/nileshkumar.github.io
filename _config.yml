@@ -7,8 +7,8 @@ description: Codes, Thoughts & Me
 
 # if it's an external image, update below for true
 # better with square images
-# external-image: false
-picture: /assets/images/nilesh.jpg
+external-image: false
+picture: /assets/images/NK.png
 abt_pic: /assets/images/nileshdev.jpg
 
 # If you want to include your resume, set to true
