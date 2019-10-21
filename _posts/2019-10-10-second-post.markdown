@@ -1,19 +1,18 @@
 ---
 title: "Time Difference in Rails"
 layout: post
-date: 2019-08-05 22:48
+date: 2019-10-10 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- ruby
+- rails
 category: blog
 author: nkumar
-description: Markdown summary with different options
+description: Time difference in rails
 permalink: blog/:title/
 ---
-###Time Difference
+### Time Difference
 Many times while development we need to have the difference of timestamps. But in Rails we can’t simply subtract the timestamps to get the difference.
 We can achieve this by following code:
 {% highlight ruby %}
