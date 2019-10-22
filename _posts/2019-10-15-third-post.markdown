@@ -30,18 +30,4 @@ If we want to achieve same in Rails, we have to use the syntax as mentioned belo
  end
 {% endhighlight %}
 
-### Email With Attachment
-
-Now, suppose we need to send an email containing attachment. We can do this by these steps mentioned below:
-{% highlight ruby %}
- def send_mail_with_attachment(file)
-   if file
-      attachments[file.original_filename] =  {
-        :content=> file.read,
-        :mime_type=> file.content_type
-        }
-    end
- end
-{% endhighlight %}
-
 Now prioritize your email... :)
