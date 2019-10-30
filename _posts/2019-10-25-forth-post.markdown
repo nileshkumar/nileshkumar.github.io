@@ -18,7 +18,7 @@ permalink: blog/:title/
 The Enumerable mixin provides collection classes with several traversal and searching methods, and with the ability to sort. 
 The class must provide a method each, which yields successive members of the collection.
 
-## Detect
+#### Detect
 Returns the first for which block is not false. find is an alias for detect method.
 {% highlight ruby %}
  array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
@@ -26,7 +26,7 @@ Returns the first for which block is not false. find is an alias for detect meth
  # => 6
 {% endhighlight %}
 
-## Select
+#### Select
 Returns an array containing all elements of enum for which the given block returns a true value.
 {% highlight ruby %}
  array = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
