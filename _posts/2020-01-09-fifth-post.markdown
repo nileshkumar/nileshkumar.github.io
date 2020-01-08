@@ -13,7 +13,7 @@ permalink: blog/:title/
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
 
-### each method
+### #each
 Looping through a collection of records from the database (using the all method, for example) is very inefficient 
 since it will try to instantiate all the objects at once and it causes more and more memory to be consumed over time.
 {% highlight ruby %}
@@ -40,4 +40,4 @@ This also means that this method only works with integer-based primary keys.
 So when the query returns a number of records that would be too much memory for the server's available resources, 
 then using #find_each would be a great choice.
 
------------- enjoy :)  --------------------
+HAPPY NEW YEAR, GUYS....
