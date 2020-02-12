@@ -13,7 +13,7 @@ layout: page
   <li>Ruby</li>
   <li>Ruby on Rails</li>
 	<li>Javascript</li>
-	<li>NodeJS</li>
+	<li>Android</li>
 	<li>ReactJS</li>
 	<li>HTML</li>
 	<li>CSS</li>
